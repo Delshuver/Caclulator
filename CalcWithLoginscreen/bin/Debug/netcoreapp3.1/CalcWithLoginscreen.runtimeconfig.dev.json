@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\GRIB\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\GRIB\\.nuget\\packages"
+    ]
+  }
+}
